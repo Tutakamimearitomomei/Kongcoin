@@ -4,6 +4,7 @@ Kongcoin integration/staging tree
 http://www.kongcoin.org
 
 Copyright (c) 2009-2014 Bitcoin Developers
+
 Copyright (c) 2011-2017 Kongcoin Developers
 
 What is Kongcoin?
